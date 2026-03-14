@@ -1,0 +1,1 @@
+I used Navigator.push() with MaterialPageRoute to navigate from the Expense List screen to the Add/Edit Expense screen. This approach allows the app to open a new page and return data (an Expense object) back to the previous screen using Navigator.pop(). It is useful because it makes it easy to add or update expenses and refresh the list when the user returns to the main screen.
